@@ -26,6 +26,9 @@ module.exports = {
 			},
 			boxShadowColor: {
 				"custom-color": "hsl(241, 100%, 89%)"
+			},
+			fontFamily: {
+				"hanken-grostek": "Hanken Grostek",
 			}
 		},
 	},
